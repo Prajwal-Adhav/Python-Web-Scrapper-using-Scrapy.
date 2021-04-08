@@ -1,0 +1,13 @@
+Requirements:-
+The requirements for this project are very basic and easily available:-
+
+Software Requirements:-
+1. Python installed on your System-https://www.python.org
+2. Scrapy Package installed on System-https://docs.scrapy.org
+3. Intellij Pycharm installed on System-https://www.jetbrains.com/pycharm
+4. Google Chrome
+
+Hardware requirements:-
+1.Intel Dual core processor
+2.Ram minimum-4 Gigabytes
+3.Basic internet connectivity

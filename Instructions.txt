@@ -1,0 +1,3 @@
+1.The Outputs are in in JSON and CSV formats and are present in tutorial folder.
+2.The Code for running the spider is present in :- \tutorial (Demo)\tutorial\tutorial\spiders
+3.There is a Separate document file given for viewing outputs and code.
